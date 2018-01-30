@@ -1,0 +1,15 @@
+Git NEW PUSH
+git init
+git status
+git add.
+git remote add origin(url from gitlab)
+git commit -m"message"
+git push -u origin master
+
+GIT UPDATE PUSH
+git init
+git status
+git add .
+git commit -m "message"
+git remote -v
+git push origin master

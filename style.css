@@ -1,0 +1,47 @@
+body{
+	font-family: sans-serif;
+	background-image: url(bg.jpg);
+	background-repeat:  no-repeat;
+	background-position: fixed;
+	text-align: center;
+
+}
+
+h1{
+	text-align:center;
+	color:white;
+	margin-bottom: 0;
+	font-size:45px;
+	font-family:'Lato', sans-serif;
+}
+
+h2{
+	text-align: center;
+	color:#009dffb3;
+	margin-bottom: 0;
+	font-size:18px;
+}
+
+hr{
+	width:90px;
+	background-color: white;
+
+}
+
+.bio{
+	width:500px;
+	color:#b5b5b5c7;
+	font-size:14px;
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+
+}
+
+.me{
+	width:150px;
+	height:150px;
+	border-radius:100%;
+	border-style:solid;
+	margin-top:40px;
+}
